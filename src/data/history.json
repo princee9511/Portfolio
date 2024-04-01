@@ -1,0 +1,26 @@
+[
+  {
+    "role": "Data Science Intern",
+    "organisation": "Igt Solutions",
+    "startDate": "August 2023",
+    "endDate": "January",
+    "experiences": ["Worked with Indigo airline to analyze there operational issues of flight"]
+  },
+  {
+    "role": "Freelancer",
+    "organisation": "Linkedin",
+    "startDate": "Part-Time",
+    "endDate": "Part-Time",
+    "experiences": ["made many landing pages for small business"]
+  },
+  {
+    "role": "Intern at Analytics Vidya",
+    "organisation": "Analytics Vidya",
+    "startDate": "March 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Learned many skills",
+      "Presented for Social Buzz client"
+    ]
+  }
+]
